@@ -1,2 +1,2 @@
-# _certifications
+# __credentials
 Repository for certifications, statements of completion, continued education, etc.
